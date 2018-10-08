@@ -13,7 +13,7 @@ Bijhorende library: https://github.com/pimoroni/pantilt-hat
 
 Volg de installatie van de library op de github repo
 
-Run de file met: python <filename>
+Run de file met: python pan.py
 
 Have fun en hulp is altijd welkom!
 
